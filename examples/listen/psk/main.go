@@ -6,8 +6,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/pion/dtls/v2"
-	"github.com/pion/dtls/v2/examples/util"
+	"github.com/icn-team/dtls/v2"
+	"github.com/icn-team/dtls/v2/examples/util"
 )
 
 func main() {

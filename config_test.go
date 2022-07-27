@@ -8,7 +8,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/pion/dtls/v2/pkg/crypto/selfsign"
+	"github.com/icn-team/dtls/v2/pkg/crypto/selfsign"
 )
 
 func TestValidateConfig(t *testing.T) {

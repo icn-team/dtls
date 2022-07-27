@@ -1,9 +1,9 @@
 package dtls
 
 import (
-	"github.com/pion/dtls/v2/pkg/protocol"
-	"github.com/pion/dtls/v2/pkg/protocol/handshake"
-	"github.com/pion/dtls/v2/pkg/protocol/recordlayer"
+	"github.com/icn-team/dtls/v2/pkg/protocol"
+	"github.com/icn-team/dtls/v2/pkg/protocol/handshake"
+	"github.com/icn-team/dtls/v2/pkg/protocol/recordlayer"
 )
 
 // 2 megabytes
